@@ -1,0 +1,15 @@
+/* font-family: AdineKirnberg-Script*/
+@font-face{
+    font-family: AbeAdineKirnberg-Script;
+    src: url(/fonts/AdineKirnberg-Script/adinekir.ttf);
+}
+/* font-family: Baskerville Old Face*/
+@font-face{
+    font-family: Baskerville Old Face;
+    src: url(/fonts/Baskerville/BASKVILL.ttf);
+}
+/* font-family: Segoe-UI*/
+@font-face{
+    font-family: Segoe UI;
+    src: url(/fonts/Segoe-UI/Segoe\ UI.ttf);
+}
